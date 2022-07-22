@@ -1,7 +1,7 @@
 /* Global rules */
 .topnav {
     margin: auto;
-    background-color: rgb(95,95,95);
+    background-color: rgb(140, 89, 0);
     overflow: auto;
 }
 
@@ -16,13 +16,37 @@
     font-size: 16px;
 }
 
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.sticky + .content {
+    padding-top: 60px;
+}
+
+
+
 .topnav a.hover, .active {
-    background-color: darkcyan;
+    background-color: rgb(91, 37, 0);
 }
 
 .topnav .icon {
     display: none;
 }
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* Responsive rules - apply when screen width is less than 1200px */
 

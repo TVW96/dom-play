@@ -3,8 +3,9 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand');
 
 html {
-    background-color: lightgray;
-    font-family: 'Quicksand', sans-serif;
+    background-color: rgb(0, 0, 0);
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hamlet_und_Horatio_auf_dem_Friedhof_%28Eug%C3%A8ne_Ferdinand_Victor_Delacroix%29.jpg/1200px-Hamlet_und_Horatio_auf_dem_Friedhof_%28Eug%C3%A8ne_Ferdinand_Victor_Delacroix%29.jpg");
+    font-family: 'Times New Roman';
     font-size: 0.95em;
     line-height: 1.5em;
 }
@@ -37,13 +38,13 @@ h2,h3 {
 }
 
 a {
-    color:darkcyan;
+    color:rgb(144, 87, 26);
     text-decoration: none;
 }
 
 a:hover {
     color: whitesmoke;
-    background-color: darkcyan;
+    background-color: rgb(101, 52, 0);
     text-decoration: none;
 }
 
