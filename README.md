@@ -1,5 +1,4 @@
-# portal
+# Document Object Model DOM - Play 
 
-An example portal page
+Made this script reading website for...
 
-Please feel free to use the HMTL/CSS and JS in this repo as you wish!
