@@ -1,4 +1,4 @@
-# (Document Object Model) DOM-Play 
+DOM Screen play
 
 Made this script reading website for...
 The Tragedy of Hamlet, Prince of Denmark - by, Shakespeare
